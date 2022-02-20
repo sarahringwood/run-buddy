@@ -12,3 +12,5 @@ https://sarahringwood.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sarah Ringwood
+
+### ©️2019 Run Buddy, Inc.
