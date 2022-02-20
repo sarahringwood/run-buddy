@@ -1,4 +1,4 @@
-# Run Buddy, Inc
+# Run Buddy, Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,4 +13,4 @@ https://sarahringwood.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Sarah Ringwood
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc.
